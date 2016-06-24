@@ -1,0 +1,62 @@
+2016-05-07 01:54:50 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpmyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-07 01:54:50 [256] autoload加载的控制器 phpmyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 03:45:28 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 09:47:21 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-07 09:47:21 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 10:16:55 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 12:23:13 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpmyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-07 12:23:13 [256] autoload加载的控制器 phpmyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 12:55:58 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:55:59 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:55:59 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:55:59 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:55:59 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:55:59 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:55:59 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 12:57:24 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-05-07 13:30:56 [256] 传入一个非法的动作名.user/login<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 16:49:48 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 23:20:22 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 23:49:56 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 23:51:15 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-07 23:52:33 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 

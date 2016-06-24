@@ -1,0 +1,12 @@
+2016-04-26 02:30:50 [256] 传入一个非法的动作名.user/login<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-26 02:45:01 [256] 传入一个非法的动作名.funcspecs/3.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-26 05:41:48 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-26 12:12:28 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-26 15:49:25 [256] 传入一个非法的动作名.funcspecs/3.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-26 18:47:05 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 

@@ -1,0 +1,50 @@
+2016-05-01 03:47:53 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:24 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phppath.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-01 06:30:24 [256] autoload加载的控制器 phppath 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:25 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phppath.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-01 06:30:25 [256] autoload加载的控制器 phppath 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:26 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phppath.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-01 06:30:26 [256] autoload加载的控制器 phppath 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:26 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phppath.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-01 06:30:26 [256] autoload加载的控制器 phppath 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:27 [256] 传入一个非法的动作名.php-cgi<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:28 [256] 传入一个非法的动作名.php.cgi<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:28 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/php.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-01 06:30:28 [256] autoload加载的控制器 php 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:29 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/php.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-01 06:30:29 [256] autoload加载的控制器 php 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:29 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/php.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-05-01 06:30:29 [256] autoload加载的控制器 php 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:30 [256] 传入一个非法的动作名.php-cgi<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:31 [256] 传入一个非法的动作名.php.cgi<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 06:30:31 [256] 传入一个非法的动作名.cgi.cgi<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 07:30:54 [256] 传入一个非法的动作名.user/login<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 10:18:14 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 11:57:12 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 16:53:23 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-05-01 23:16:23 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 

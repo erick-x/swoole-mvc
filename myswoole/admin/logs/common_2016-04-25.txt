@@ -1,0 +1,1552 @@
+2016-04-25 00:46:39 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 00:46:39 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 01:30:49 [256] 传入一个非法的动作名.user/login<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 03:26:53 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:55 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/zabbix.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:55 [256] autoload加载的控制器 zabbix 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:55 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/zabbix.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:55 [256] autoload加载的控制器 zabbix 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:55 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/qqmy.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:55 [256] autoload加载的控制器 qqmy 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:56 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/qqmy.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:56 [256] autoload加载的控制器 qqmy 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:57 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:57 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:57 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:57 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:57 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/pma.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:57 [256] autoload加载的控制器 pma 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:57 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/pma.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:57 [256] autoload加载的控制器 pma 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:57 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpmyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:57 [256] autoload加载的控制器 phpmyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:58 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpmyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:58 [256] autoload加载的控制器 phpmyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:58 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/xampp.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:58 [256] autoload加载的控制器 xampp 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:59 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/xampp.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:32:59 [256] autoload加载的控制器 xampp 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:59 [256] 传入一个非法的动作名.login/LoginForm.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:32:59 [256] 传入一个非法的动作名.login/LoginForm.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:00 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:00 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:00 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:00 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:03 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:03 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:03 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:03 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:03 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/login.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:03 [256] autoload加载的控制器 login 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:03 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/login.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:03 [256] autoload加载的控制器 login 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:05 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:05 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:06 [256] 传入一个非法的动作名.admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:06 [256] 传入一个非法的动作名.admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:07 [256] 传入一个非法的动作名.uc_server/admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:10 [256] 传入一个非法的动作名.uc_server/admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:10 [256] 传入一个非法的动作名.uc_server/admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:10 [256] 传入一个非法的动作名.uc_server/admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:13 [256] 传入一个非法的动作名.sources/admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:14 [256] 传入一个非法的动作名.sources/admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:14 [256] 传入一个非法的动作名.admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:14 [256] 传入一个非法的动作名.admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:14 [256] 传入一个非法的动作名.manyou/sources/admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:15 [256] 传入一个非法的动作名.manyou/sources/admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:15 [256] 传入一个非法的动作名.manyou/admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:15 [256] 传入一个非法的动作名.manyou/admincp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ewebeditor.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:15 [256] autoload加载的控制器 ewebeditor 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ewebeditor.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:15 [256] autoload加载的控制器 ewebeditor 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:17 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ucenter.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:17 [256] autoload加载的控制器 ucenter 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:17 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ucenter.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:17 [256] autoload加载的控制器 ucenter 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:21 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/shopadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:21 [256] autoload加载的控制器 shopadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:21 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/shopadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:21 [256] autoload加载的控制器 shopadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:21 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/syssite.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:21 [256] autoload加载的控制器 syssite 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:21 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/syssite.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:21 [256] autoload加载的控制器 syssite 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sysadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:22 [256] autoload加载的控制器 sysadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sysadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:22 [256] autoload加载的控制器 sysadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:26 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/wp.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:26 [256] autoload加载的控制器 wp 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:26 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/wp.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:26 [256] autoload加载的控制器 wp 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dedecms.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:27 [256] autoload加载的控制器 dedecms 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dedecms.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:27 [256] autoload加载的控制器 dedecms 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dedeadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:27 [256] autoload加载的控制器 dedeadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dedeadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:27 [256] autoload加载的控制器 dedeadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dede.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:27 [256] autoload加载的控制器 dede 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:31 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dede.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:31 [256] autoload加载的控制器 dede 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:31 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/administrator.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:31 [256] autoload加载的控制器 administrator 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:31 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/administrator.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:31 [256] autoload加载的控制器 administrator 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/pma.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:32 [256] autoload加载的控制器 pma 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:35 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/pma.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:35 [256] autoload加载的控制器 pma 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:48 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/myphpadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:48 [256] autoload加载的控制器 myphpadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:48 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/myphpadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:48 [256] autoload加载的控制器 myphpadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:48 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpmyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:48 [256] autoload加载的控制器 phpmyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:52 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpmyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:52 [256] autoload加载的控制器 phpmyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:55 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webftp.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:55 [256] autoload加载的控制器 webftp 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:55 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webftp.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:55 [256] autoload加载的控制器 webftp 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:55 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:55 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:55 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:55 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:55 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webftp.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:55 [256] autoload加载的控制器 webftp 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:56 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webftp.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:56 [256] autoload加载的控制器 webftp 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:56 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/publicadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:56 [256] autoload加载的控制器 publicadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:33:56 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/publicadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:33:56 [256] autoload加载的控制器 publicadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:07 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/cmsadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:07 [256] autoload加载的控制器 cmsadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:07 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/cmsadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:07 [256] autoload加载的控制器 cmsadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adm.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:15 [256] autoload加载的控制器 adm 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:16 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adm.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:16 [256] autoload加载的控制器 adm 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:34 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:34 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:35 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:35 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:35 [256] 传入一个非法的动作名.login.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:35 [256] 传入一个非法的动作名.login.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:35 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:35 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:36 [256] 传入一个非法的动作名.login.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:36 [256] 传入一个非法的动作名.login.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:36 [256] 传入一个非法的动作名.login.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:36 [256] 传入一个非法的动作名.login.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:38 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ad.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:38 [256] autoload加载的控制器 ad 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:38 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ad.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:38 [256] autoload加载的控制器 ad 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:39 [256] 传入一个非法的动作名.manage.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:39 [256] 传入一个非法的动作名.manage.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:39 [256] 传入一个非法的动作名.manage.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:40 [256] 传入一个非法的动作名.manage.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:43 [256] 传入一个非法的动作名.manage.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:43 [256] 传入一个非法的动作名.manage.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:46 [256] 传入一个非法的动作名.manage.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:47 [256] 传入一个非法的动作名.manage.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:59 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adm.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:59 [256] autoload加载的控制器 adm 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:59 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adm.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:34:59 [256] autoload加载的控制器 adm 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:59 [256] 传入一个非法的动作名.login.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:34:59 [256] 传入一个非法的动作名.login.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:00 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:00 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:00 [256] 传入一个非法的动作名.login.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:00 [256] 传入一个非法的动作名.login.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:00 [256] 传入一个非法的动作名.login.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:00 [256] 传入一个非法的动作名.login.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:04 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/add.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:04 [256] autoload加载的控制器 add 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:04 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/add.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:04 [256] autoload加载的控制器 add 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:07 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:07 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:12 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:12 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:13 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:13 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:13 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/gladmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:15 [256] autoload加载的控制器 gladmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/gladmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:15 [256] autoload加载的控制器 gladmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:16 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webmanage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:16 [256] autoload加载的控制器 webmanage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:17 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webmanage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:17 [256] autoload加载的控制器 webmanage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/desk.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:27 [256] autoload加载的控制器 desk 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/desk.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:27 [256] autoload加载的控制器 desk 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:27 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:27 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:28 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:33 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:38 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:38 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:38 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/guanli.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:38 [256] autoload加载的控制器 guanli 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:39 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/guanli.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:39 [256] autoload加载的控制器 guanli 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:43 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/superadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:43 [256] autoload加载的控制器 superadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:43 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/superadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:43 [256] autoload加载的控制器 superadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:48 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/houtaiguanli.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:48 [256] autoload加载的控制器 houtaiguanli 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:48 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/houtaiguanli.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:48 [256] autoload加载的控制器 houtaiguanli 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:50 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manageadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:50 [256] autoload加载的控制器 manageadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:50 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manageadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:50 [256] autoload加载的控制器 manageadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:53 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminuser.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:53 [256] autoload加载的控制器 adminuser 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:53 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminuser.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:53 [256] autoload加载的控制器 adminuser 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:58 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ad.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:58 [256] autoload加载的控制器 ad 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:58 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ad.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:35:58 [256] autoload加载的控制器 ad 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:58 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:58 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:59 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:59 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:35:59 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:02 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:03 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:03 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:03 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sys.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:03 [256] autoload加载的控制器 sys 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:04 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sys.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:04 [256] autoload加载的控制器 sys 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:04 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:04 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:04 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:04 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:05 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:05 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:08 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:08 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:13 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:13 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:13 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:13 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:13 [256] 传入一个非法的动作名.del.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:13 [256] 传入一个非法的动作名.del.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:13 [256] 传入一个非法的动作名.del.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:14 [256] 传入一个非法的动作名.del.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:14 [256] 传入一个非法的动作名.del.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:14 [256] 传入一个非法的动作名.del.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:14 [256] 传入一个非法的动作名.del.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:14 [256] 传入一个非法的动作名.del.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/administration.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:15 [256] autoload加载的控制器 administration 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/administration.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:15 [256] autoload加载的控制器 administration 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:19 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/vsadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:19 [256] autoload加载的控制器 vsadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:19 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/vsadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:19 [256] autoload加载的控制器 vsadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:30 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webmaster.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:30 [256] autoload加载的控制器 webmaster 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:33 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webmaster.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:36:33 [256] autoload加载的控制器 webmaster 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:33 [256] 传入一个非法的动作名.logs.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:36 [256] 传入一个非法的动作名.logs.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:40 [256] 传入一个非法的动作名.logs.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:43 [256] 传入一个非法的动作名.logs.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:43 [256] 传入一个非法的动作名.logs.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:43 [256] 传入一个非法的动作名.logs.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:43 [256] 传入一个非法的动作名.logs.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:36:44 [256] 传入一个非法的动作名.logs.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:01 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admsystem.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:01 [256] autoload加载的控制器 admsystem 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:01 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admsystem.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:01 [256] autoload加载的控制器 admsystem 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/mana.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:15 [256] autoload加载的控制器 mana 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:18 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/mana.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:18 [256] autoload加载的控制器 mana 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:18 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:18 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:19 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:24 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:24 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:24 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:24 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:27 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:27 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:28 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:28 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:28 [256] 传入一个非法的动作名.users.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:28 [256] 传入一个非法的动作名.users.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:31 [256] 传入一个非法的动作名.users.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:34 [256] 传入一个非法的动作名.users.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:35 [256] 传入一个非法的动作名.users.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:35 [256] 传入一个非法的动作名.users.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:35 [256] 传入一个非法的动作名.users.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:35 [256] 传入一个非法的动作名.users.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:36 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adsummerguanli.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:36 [256] autoload加载的控制器 adsummerguanli 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:37 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adsummerguanli.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:37 [256] autoload加载的控制器 adsummerguanli 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:47 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/mmanageuser.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:47 [256] autoload加载的控制器 mmanageuser 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:47 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/mmanageuser.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:47 [256] autoload加载的控制器 mmanageuser 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:58 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ewebedit.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:58 [256] autoload加载的控制器 ewebedit 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:58 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ewebedit.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:58 [256] autoload加载的控制器 ewebedit 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:37:59 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/wangluoguanli.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:37:59 [256] autoload加载的控制器 wangluoguanli 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:00 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/wangluoguanli.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:00 [256] autoload加载的控制器 wangluoguanli 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:14 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:14 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:17 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:17 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:17 [256] 传入一个非法的动作名.shopxp.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:21 [256] 传入一个非法的动作名.shopxp.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:21 [256] 传入一个非法的动作名.shopxp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:24 [256] 传入一个非法的动作名.shopxp.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:24 [256] 传入一个非法的动作名.shopxp.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:25 [256] 传入一个非法的动作名.shopxp.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:25 [256] 传入一个非法的动作名.shopxp.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:25 [256] 传入一个非法的动作名.shopxp.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:25 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ldjadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:25 [256] autoload加载的控制器 ldjadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:25 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ldjadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:25 [256] autoload加载的控制器 ldjadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:30 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/guadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:30 [256] autoload加载的控制器 guadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:30 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/guadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:30 [256] autoload加载的控制器 guadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:39 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/system.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:39 [256] autoload加载的控制器 system 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:40 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/system.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:40 [256] autoload加载的控制器 system 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:40 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:40 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:40 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:40 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:41 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:41 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:41 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:41 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:42 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dbadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:42 [256] autoload加载的控制器 dbadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:42 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dbadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:42 [256] autoload加载的控制器 dbadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:43 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpmanager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:43 [256] autoload加载的控制器 phpmanager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:38:46 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpmanager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:38:46 [256] autoload加载的控制器 phpmanager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:07 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/mysql.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:07 [256] autoload加载的控制器 mysql 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:07 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/mysql.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:07 [256] autoload加载的控制器 mysql 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:07 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:07 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:07 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:08 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:08 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:08 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:09 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:09 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:14 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:14 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:14 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:14 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:14 [256] 传入一个非法的动作名.manage.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:14 [256] 传入一个非法的动作名.manage.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:17 [256] 传入一个非法的动作名.manage.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:18 [256] 传入一个非法的动作名.manage.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:18 [256] 传入一个非法的动作名.manage.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:18 [256] 传入一个非法的动作名.manage.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:18 [256] 传入一个非法的动作名.manage.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:18 [256] 传入一个非法的动作名.manage.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/websiteamdin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:22 [256] autoload加载的控制器 websiteamdin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/websiteamdin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:22 [256] autoload加载的控制器 websiteamdin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:26 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admins.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:26 [256] autoload加载的控制器 admins 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:26 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admins.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:26 [256] autoload加载的控制器 admins 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:37 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:37 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:41 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:41 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:47 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/master.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:47 [256] autoload加载的控制器 master 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:49 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/newssystem.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:49 [256] autoload加载的控制器 newssystem 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:39:49 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/newssystem.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:39:49 [256] autoload加载的控制器 newssystem 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:10 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:10 [256] autoload加载的控制器 manage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:10 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:10 [256] autoload加载的控制器 manage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:10 [256] 传入一个非法的动作名.index.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:11 [256] 传入一个非法的动作名.index.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:11 [256] 传入一个非法的动作名.index.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:11 [256] 传入一个非法的动作名.index.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:11 [256] 传入一个非法的动作名.index.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:11 [256] 传入一个非法的动作名.index.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:11 [256] 传入一个非法的动作名.index.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:11 [256] 传入一个非法的动作名.index.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:16 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/login.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:16 [256] autoload加载的控制器 login 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:17 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/login.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:17 [256] autoload加载的控制器 login 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:17 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:17 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:18 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:23 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:23 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:23 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:23 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:23 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminuserlogin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:23 [256] autoload加载的控制器 adminuserlogin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:23 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminuserlogin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:23 [256] autoload加载的控制器 adminuserlogin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:33 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:33 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:33 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:33 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:33 [256] 传入一个非法的动作名.main.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:33 [256] 传入一个非法的动作名.main.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:36 [256] 传入一个非法的动作名.main.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:37 [256] 传入一个非法的动作名.main.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:37 [256] 传入一个非法的动作名.main.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:37 [256] 传入一个非法的动作名.main.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:37 [256] 传入一个非法的动作名.main.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:37 [256] 传入一个非法的动作名.main.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:41 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminhh.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:41 [256] autoload加载的控制器 adminhh 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:41 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminhh.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:41 [256] autoload加载的控制器 adminhh 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:50 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:50 [256] autoload加载的控制器 sadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:50 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:50 [256] autoload加载的控制器 sadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:52 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/goodadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:52 [256] autoload加载的控制器 goodadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:40:53 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/goodadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:40:53 [256] autoload加载的控制器 goodadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:23 [256] 传入一个非法的动作名.manage.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:24 [256] 传入一个非法的动作名.manage.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:24 [256] 传入一个非法的动作名.manage.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:24 [256] 传入一个非法的动作名.manage.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:24 [256] 传入一个非法的动作名.manage.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:24 [256] 传入一个非法的动作名.manage.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:24 [256] 传入一个非法的动作名.manage.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:24 [256] 传入一个非法的动作名.manage.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ad.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:32 [256] autoload加载的控制器 ad 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ad.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:32 [256] autoload加载的控制器 ad 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:33 [256] 传入一个非法的动作名.manager.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:37 [256] 传入一个非法的动作名.manager.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:37 [256] 传入一个非法的动作名.manager.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:37 [256] 传入一个非法的动作名.manager.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:37 [256] 传入一个非法的动作名.manager.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:37 [256] 传入一个非法的动作名.manager.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:37 [256] 传入一个非法的动作名.manager.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:38 [256] 传入一个非法的动作名.manager.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:38 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/chkadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:38 [256] autoload加载的控制器 chkadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:38 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/chkadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:38 [256] autoload加载的控制器 chkadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:43 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminmember.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:43 [256] autoload加载的控制器 adminmember 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:43 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminmember.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:43 [256] autoload加载的控制器 adminmember 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:52 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:52 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:52 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:52 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:52 [256] 传入一个非法的动作名.pass.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:53 [256] 传入一个非法的动作名.pass.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:53 [256] 传入一个非法的动作名.pass.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:53 [256] 传入一个非法的动作名.pass.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:54 [256] 传入一个非法的动作名.pass.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:54 [256] 传入一个非法的动作名.pass.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:54 [256] 传入一个非法的动作名.pass.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:54 [256] 传入一个非法的动作名.pass.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:54 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminedit.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:54 [256] autoload加载的控制器 adminedit 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:41:54 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminedit.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:41:54 [256] autoload加载的控制器 adminedit 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:09 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:42:09 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:14 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:14 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:15 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:15 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:15 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:15 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:15 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:18 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:27 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:27 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:28 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:28 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:31 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:31 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:31 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:32 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/popadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:42:32 [256] autoload加载的控制器 popadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/popadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:42:32 [256] autoload加载的控制器 popadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:37 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/mysqladmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:42:37 [256] autoload加载的控制器 mysqladmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:37 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/mysqladmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:42:37 [256] autoload加载的控制器 mysqladmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:51 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/aspmyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:42:51 [256] autoload加载的控制器 aspmyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:54 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/aspmyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:42:54 [256] autoload加载的控制器 aspmyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:56 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sbdadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:42:56 [256] autoload加载的控制器 sbdadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:42:56 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sbdadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:42:56 [256] autoload加载的控制器 sbdadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:00 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sysmanage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:00 [256] autoload加载的控制器 sysmanage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:01 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sysmanage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:01 [256] autoload加载的控制器 sysmanage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:16 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/jzmmanager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:16 [256] autoload加载的控制器 jzmmanager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:20 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/hradmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:20 [256] autoload加载的控制器 hradmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:23 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/hradmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:23 [256] autoload加载的控制器 hradmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:30 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/musermanage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:30 [256] autoload加载的控制器 musermanage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:30 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/musermanage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:30 [256] autoload加载的控制器 musermanage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/jzmmanagesystem.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:32 [256] autoload加载的控制器 jzmmanagesystem 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/jzmmanagesystem.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:32 [256] autoload加载的控制器 jzmmanagesystem 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:39 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:39 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:39 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:39 [256] autoload加载的控制器 admin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:40 [256] 传入一个非法的动作名.vs.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:40 [256] 传入一个非法的动作名.vs.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:40 [256] 传入一个非法的动作名.vs.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:40 [256] 传入一个非法的动作名.vs.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:40 [256] 传入一个非法的动作名.vs.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:41 [256] 传入一个非法的动作名.vs.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:41 [256] 传入一个非法的动作名.vs.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:41 [256] 传入一个非法的动作名.vs.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:41 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/systemadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:41 [256] autoload加载的控制器 systemadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:42 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/systemadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:42 [256] autoload加载的控制器 systemadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:58 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/aadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:58 [256] autoload加载的控制器 aadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:43:58 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/aadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:43:58 [256] autoload加载的控制器 aadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:00 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminsite.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:00 [256] autoload加载的控制器 adminsite 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:02 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminsite.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:02 [256] autoload加载的控制器 adminsite 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:17 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/muadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:17 [256] autoload加载的控制器 muadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:17 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/muadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:17 [256] autoload加载的控制器 muadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:22 [256] autoload加载的控制器 webadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:22 [256] autoload加载的控制器 webadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:36 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:36 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:39 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:39 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:40 [256] 传入一个非法的动作名.index.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:40 [256] 传入一个非法的动作名.index.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:43 [256] 传入一个非法的动作名.index.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:43 [256] 传入一个非法的动作名.index.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:43 [256] 传入一个非法的动作名.index.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:46 [256] 传入一个非法的动作名.index.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:47 [256] 传入一个非法的动作名.index.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:47 [256] 传入一个非法的动作名.index.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:47 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminadduser.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:47 [256] autoload加载的控制器 adminadduser 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:44:47 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminadduser.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:44:47 [256] autoload加载的控制器 adminadduser 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:02 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/administrator.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:02 [256] autoload加载的控制器 administrator 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:07 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/administrator.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:07 [256] autoload加载的控制器 administrator 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:13 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/backoffice.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:13 [256] autoload加载的控制器 backoffice 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:13 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/backoffice.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:13 [256] autoload加载的控制器 backoffice 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webmaster.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:15 [256] autoload加载的控制器 webmaster 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:15 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webmaster.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:15 [256] autoload加载的控制器 webmaster 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:34 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/siteadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:34 [256] autoload加载的控制器 siteadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:34 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/siteadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:34 [256] autoload加载的控制器 siteadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:40 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminindex.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:40 [256] autoload加载的控制器 adminindex 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:40 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminindex.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:40 [256] autoload加载的控制器 adminindex 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:47 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminpage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:47 [256] autoload加载的控制器 adminpage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:47 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminpage.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:47 [256] autoload加载的控制器 adminpage 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:52 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ybadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:52 [256] autoload加载的控制器 ybadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:45:53 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/ybadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:45:53 [256] autoload加载的控制器 ybadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:03 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/iisadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:03 [256] autoload加载的控制器 iisadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:03 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/iisadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:03 [256] autoload加载的控制器 iisadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:13 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/fileadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:13 [256] autoload加载的控制器 fileadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:13 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/fileadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:13 [256] autoload加载的控制器 fileadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:24 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/indexadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:24 [256] autoload加载的控制器 indexadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:24 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/indexadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:24 [256] autoload加载的控制器 indexadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:25 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/myadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:25 [256] autoload加载的控制器 myadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:26 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/myadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:26 [256] autoload加载的控制器 myadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:30 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/basedadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:30 [256] autoload加载的控制器 basedadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:33 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/basedadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:33 [256] autoload加载的控制器 basedadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:40 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/managesystem.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:40 [256] autoload加载的控制器 managesystem 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:40 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/managesystem.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:40 [256] autoload加载的控制器 managesystem 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:56 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admini.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:56 [256] autoload加载的控制器 admini 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:46:56 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admini.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:46:56 [256] autoload加载的控制器 admini 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:03 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webmanager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:03 [256] autoload加载的控制器 webmanager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:03 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webmanager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:03 [256] autoload加载的控制器 webmanager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:11 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminn.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:11 [256] autoload加载的控制器 adminn 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:11 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminn.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:11 [256] autoload加载的控制器 adminn 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminmain.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:22 [256] autoload加载的控制器 adminmain 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminmain.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:22 [256] autoload加载的控制器 adminmain 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:26 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/kindeditor.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:26 [256] autoload加载的控制器 kindeditor 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:30 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/kindeditor.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:30 [256] autoload加载的控制器 kindeditor 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:31 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:31 [256] autoload加载的控制器 phpadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:31 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phpadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:31 [256] autoload加载的控制器 phpadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:33 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/document.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:33 [256] autoload加载的控制器 document 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:33 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/document.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:33 [256] autoload加载的控制器 document 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:45 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/szwyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:45 [256] autoload加载的控制器 szwyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:47:45 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/szwyadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:47:45 [256] autoload加载的控制器 szwyadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:48:00 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminlogin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:48:00 [256] autoload加载的控制器 adminlogin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:48:00 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminlogin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:48:00 [256] autoload加载的控制器 adminlogin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:48:09 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admintab.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:48:09 [256] autoload加载的控制器 admintab 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:48:09 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/admintab.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:48:09 [256] autoload加载的控制器 admintab 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:48:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/epadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:48:32 [256] autoload加载的控制器 epadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:48:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/epadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:48:32 [256] autoload加载的控制器 epadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:48:33 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:48:33 [256] autoload加载的控制器 adminadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:48:33 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/adminadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:48:33 [256] autoload加载的控制器 adminadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:48:42 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/eadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:48:42 [256] autoload加载的控制器 eadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:07 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sysmanager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:07 [256] autoload加载的控制器 sysmanager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:08 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sysmanager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:08 [256] autoload加载的控制器 sysmanager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:19 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webeditor.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:19 [256] autoload加载的控制器 webeditor 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/webeditor.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:22 [256] autoload加载的控制器 webeditor 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/uploadsoft.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:27 [256] autoload加载的控制器 uploadsoft 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:27 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/uploadsoft.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:27 [256] autoload加载的控制器 uploadsoft 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:29 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dbadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:29 [256] autoload加载的控制器 dbadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:33 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/dbadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:33 [256] autoload加载的控制器 dbadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:43 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/usercontrol.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:43 [256] autoload加载的控制器 usercontrol 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:43 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/usercontrol.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:43 [256] autoload加载的控制器 usercontrol 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:45 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/myadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:45 [256] autoload加载的控制器 myadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:49:48 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/myadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:49:48 [256] autoload加载的控制器 myadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:10 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/login.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:50:10 [256] autoload加载的控制器 login 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:10 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/login.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:50:10 [256] autoload加载的控制器 login 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:10 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:10 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:10 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:10 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:14 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:14 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:14 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:14 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:19 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/pscms.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:50:19 [256] autoload加载的控制器 pscms 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:19 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/pscms.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:50:19 [256] autoload加载的控制器 pscms 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:19 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:20 [256] 传入一个非法的动作名.admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:20 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:20 [256] 传入一个非法的动作名.admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:20 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:20 [256] 传入一个非法的动作名.admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:20 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:21 [256] 传入一个非法的动作名.admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:21 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/lzwadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:50:21 [256] autoload加载的控制器 lzwadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:22 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/lzwadmin.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:50:22 [256] autoload加载的控制器 lzwadmin 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:39 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sysadm.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:50:39 [256] autoload加载的控制器 sysadm 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:39 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/sysadm.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 06:50:39 [256] autoload加载的控制器 sysadm 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:39 [256] 传入一个非法的动作名.login.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:39 [256] 传入一个非法的动作名.login.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:43 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:43 [256] 传入一个非法的动作名.login.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:43 [256] 传入一个非法的动作名.login.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:43 [256] 传入一个非法的动作名.login.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:43 [256] 传入一个非法的动作名.login.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:46 [256] 传入一个非法的动作名.login.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:47 [256] 传入一个非法的动作名.wp-admin<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:47 [256] 传入一个非法的动作名.wp-admin<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:47 [256] 传入一个非法的动作名.wp-admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:47 [256] 传入一个非法的动作名.wp-admin.jsp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:48 [256] 传入一个非法的动作名.wp-admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:48 [256] 传入一个非法的动作名.wp-admin.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:48 [256] 传入一个非法的动作名.wp-admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:48 [256] 传入一个非法的动作名.wp-admin.asp<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:48 [256] 传入一个非法的动作名.wp-admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 06:50:48 [256] 传入一个非法的动作名.wp-admin.aspx<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 10:00:00 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 14:15:28 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-25 14:15:28 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-25 23:08:10 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 

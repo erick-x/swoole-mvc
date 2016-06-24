@@ -1,0 +1,26 @@
+2016-05-26 17:02:22  INSERT INTO tb_activityconfig (`actid`,`title`,`configdesc`,`content`,`param`) VALUES (?,?,?,?,?) 
+2016-05-26 17:02:22Array
+(
+    [0] => 
+    [1] => 
+    [2] => 
+    [3] => 
+    [4] => 
+)
+ 
+2016-05-26 17:02:22Array
+(
+    [host] => 10.66.104.153
+    [port] => 3306
+    [user] => root
+    [pass] => jluBO49V
+    [dbname] => accountdb_xinma
+)
+ 
+2016-05-26 17:02:22Array
+(
+    [0] => 23000
+    [1] => 1048
+    [2] => Column 'actid' cannot be null
+)
+ 

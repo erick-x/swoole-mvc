@@ -1,0 +1,58 @@
+2016-04-07 00:31:47 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/phppath.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-07 00:31:47 [256] autoload加载的控制器 phppath 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 05:08:22 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 05:08:32 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 05:08:42 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 05:14:19 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/muieblackcat.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-07 05:14:19 [256] autoload加载的控制器 muieblackcat 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 05:14:19 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 05:14:20 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 07:43:14 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-07 07:43:14 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 08:30:46 [256] 传入一个非法的动作名.user/login<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 09:43:58 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 10:01:30 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-07 11:16:44 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-07 11:16:52 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-07 11:16:53 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-07 11:19:46 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-07 11:19:48 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-07 16:09:26 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 17:52:59 [256] 传入一个非法的动作名.manifests/libraries/joomla.xml<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 18:21:31 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 18:22:50 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 18:24:08 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 21:31:26 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/muieblackcat.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-07 21:31:26 [256] autoload加载的控制器 muieblackcat 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 21:31:29 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 21:31:34 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-07 21:31:36 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 

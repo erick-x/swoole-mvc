@@ -1,0 +1,106 @@
+2016-04-13 09:43:21 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-13 11:00:47 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-13 11:00:50 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-13 11:00:52 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:30:34 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-13 11:59:49 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 11:59:54 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 11:59:59 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:00:04 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:00:09 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:00:41 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:00:46 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:00:51 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:00:56 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:01:01 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:01:06 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:01:11 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:01:16 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:01:21 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 12:01:26 [2] swoole_client::recv(): recv() failed. Error: Resource temporarily unavailable [11]<br /> 40 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-13 14:30:46 [256] 传入一个非法的动作名.user/login<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-13 15:45:48 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-13 15:45:48 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-13 15:58:31 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-13 17:36:03 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-13 19:19:21 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/s.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-13 19:19:21 [256] autoload加载的控制器 s 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-13 22:16:12 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 

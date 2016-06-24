@@ -1,0 +1,17 @@
+2016-05-07 20:55:58 SELECT * FROM tb_whitelist  
+2016-05-07 20:55:58Array
+(
+    [host] => 10.66.104.153
+    [port] => 3306
+    [user] => root
+    [pass] => jluBO49V
+    [dbname] => accountdb_xinma_test
+)
+ 
+2016-05-07 20:55:58Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'accountdb_xinma_test.tb_whitelist' doesn't exist
+)
+ 

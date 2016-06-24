@@ -1,0 +1,536 @@
+2016-04-11 01:43:39 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 05:51:32 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-11 05:51:32 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 07:56:58 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 11:16:30 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:17 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:19:36 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:21:41 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 11:22:16 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:16 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/muieblackcat.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-11 11:24:16 [256] autoload加载的控制器 muieblackcat 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 11:24:16 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 11:24:17 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 11:24:21 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 11:24:21 [256] 传入一个非法的动作名.scripts/setup.php<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:24:50 [2] in_array() expects parameter 2 to be array, string given<br /> 99 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/activity.mod.php 
+ <br /> 
+2016-04-11 11:28:19 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 11:28:28 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 11:28:29 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 11:34:19 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 11:34:39 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 11:34:40 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 11:39:10 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 11:39:14 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 11:39:15 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewardid'<br /> 904 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'condition'<br /> 905 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 906 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'rewarddesc'<br /> 907 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'acttype'<br /> 908 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingnums'<br /> 913 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingID'<br /> 914 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'thingtype'<br /> 915 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:18:53 [2] Illegal string offset 'param'<br /> 909 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/models/socket.mod.php 
+ <br /> 
+2016-04-11 12:30:46 [256] 传入一个非法的动作名.user/login<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 14:13:59 [256] file not found: /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/manager.ctl.php<br /> 125 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/runtime.php 
+ <br /> 
+2016-04-11 14:13:59 [256] autoload加载的控制器 manager 不存在<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 14:23:43 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 15:28:39 [2] Division by zero<br /> 87 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/xxtea.lib.php 
+ <br /> 
+2016-04-11 15:28:55 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:29:05 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:29:06 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:33:18 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:33:27 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:33:28 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:33:35 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:33:37 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:36:30 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 15:51:04 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:51:08 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 15:51:10 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 16:13:05 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 16:13:07 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 17:03:02 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 17:03:03 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 17:03:50 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 17:03:51 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 
+2016-04-11 20:19:06 [256] 传入一个非法的动作名.global/img/gs.gif<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/framework/system/libraries/notfoundexception.lib.php 
+ <br /> 
+2016-04-11 22:56:17 [2048] Declaration of accountreplace_Controller::prompt() should be compatible with Controller::prompt($parm, $status, $dbugstatus = Array, $url = NULL)<br /> 6 in file /data/wwwroot/msxd.com.cn/morefun/admin/admin/application/controllers/accountreplace.ctl.php 
+ <br /> 

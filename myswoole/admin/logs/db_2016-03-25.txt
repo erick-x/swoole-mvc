@@ -1,0 +1,34 @@
+2016-03-25 14:48:41 SELECT * FROM tb_whitelist  
+2016-03-25 14:48:41Array
+(
+    [host] => 10.66.104.153
+    [port] => 3306
+    [user] => root
+    [pass] => jluBO49V
+    [dbname] => accountdb_xinma_test
+)
+ 
+2016-03-25 14:48:41Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'accountdb_xinma_test.tb_whitelist' doesn't exist
+)
+ 
+2016-03-25 14:50:24 SELECT * FROM tb_whitelist  
+2016-03-25 14:50:24Array
+(
+    [host] => 10.66.104.153
+    [port] => 3306
+    [user] => root
+    [pass] => jluBO49V
+    [dbname] => xinam_serverdb
+)
+ 
+2016-03-25 14:50:24Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'xinam_serverdb.tb_whitelist' doesn't exist
+)
+ 

@@ -1,0 +1,77 @@
+create database db_mt_admin;
+CREATE TABLE `tb_user` (
+  `t_uid` varchar(50) NOT NULL PRIMARY KEY,
+  `t_account` varchar(50) NOT NULL,
+  `t_password` varchar(50) NOT NULL,
+  `t_regtime` datetime NOT NULL ,
+  `t_roleid` varchar(50) NOT NULL DEFAULT '',
+  `t_lastlogin` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+CREATE TABLE `tb_role`(
+	`t_roleid` int(10) NOT NULL PRIMARY KEY AUTO_INCEMENT,
+	`t_rname` varchar(50) NOT NULL,
+	`t_permission` varchar(300) NOT NULL,
+	`t_desc` varchar(100) DEFAULT ''
+)ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+CREATE TABLE `tb_menu`(
+	`t_menuId` int(10) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`t_mname` varchar(50) NOT NULL,
+	`t_controller` varchar(50) NOT NULL DEFAULT 'index',
+	`t_method` varchar(50) NOT NULL DEFAULT 'index',
+	`t_desc` varchar(100) DEFAULT '',
+	`t_status` tinyint(3) NOT NULL DEFAULT 0, ##0==无子菜单 , 1== 不显示, 2 == 有子菜单
+	`t_pid` int(10) not null default 0,
+	't_postion' int(10) not null default 0,
+	't_argv' varchar(100) not default ''
+)ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+CREATE TABLE `tb_manager_log`(
+	`f_id` int(10) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`f_uid` varchar(50) NOT NULL,
+	`f_account` varchar(50) NOT NULL,
+	`f_ip` varchar(30) NOT NULL,
+	`f_addtime` datetime NOT NULL,
+	`f_desc` varchar(100) DEFAULT NULL,
+	'f_platform' varchar(60) not null default '',
+	'f_sid' varchar(50) not null default ''
+)ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+CREATE TABLE `tb_server`(
+	`sid` int(10) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`platform_name` varchar(20) NOT NULL default '',
+	`platform` int(5) NOT NULL default 0,
+	`sname` varchar(30) NOT NULL default '',
+	`status` tinyint(5) NOT NULL default 0,
+	`createTime` int(11) not null default 0,
+	'serverStatus' tinyint(5) NOT NULL default 0,
+	'userNum' int(20) not null default 0,
+	'roleserver_ip' varchar(20) not null default '',
+	'roleserver_port' int(5) not null default 0,
+	'zoneserver_ip' varchar(20) not null default '',
+	'zoneserver_port' int(5) not null default 0,
+	'server_info' varchar(100) not null default '',
+	'zoneid' tinyint(5) not null default 0
+)ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `tb_whitelist`(
+	`uin` int(10) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`desc` varchar(50) NOT NULL
+)ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+CREATE TABLE `tb_platform`(
+	'platform_id' int(10) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	'platform_name' varchar(20) NOT NULL default '',
+	'platform_num' int(10) NOT NULL default 0,
+	'platform_desc' varchar(100) NOT NULL default '',
+	'createtime' int(11) not null default 0,
+	'sid_ip' varchar(20) not null default '',
+	'sid_port' varchar(20) not null default '',
+	'sid_db' varchar(50) not null default '',
+	'sid_dbname' varchar(60) not null default '',
+	'sid_dbuser' varchar(50) not null default '',
+	'sid_dbpwd' varchar(50) not null default ''
+)ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
