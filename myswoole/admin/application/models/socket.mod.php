@@ -5,7 +5,7 @@ class Socket_Model extends Model
         private static $handler = null;
         //private标记的构造方法
 
-        public function __destruct() {
+       private function __destruct() {
         }
         /*创建单例模式*/
 	public static function getInstance()
